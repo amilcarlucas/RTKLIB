@@ -1,6 +1,6 @@
 # makefile for rtkrcv
 
-BINDIR = /usr/local/bin
+BINDIR = /usr/bin/RTKLIB/app/rtkrcv
 SRC    = ../../../src
 
 # for beagleboard
